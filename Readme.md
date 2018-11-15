@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DomainObject1.cs](./CS/WinSolution.Module/DomainObject1.cs) (VB: [DomainObject1.vb](./VB/WinSolution.Module/DomainObject1.vb))
+* [DomainObject2.cs](./CS/WinSolution.Module/DomainObject2.cs) (VB: [DomainObject2.vb](./VB/WinSolution.Module/DomainObject2.vb))
+* [DomainObject3.cs](./CS/WinSolution.Module/DomainObject3.cs) (VB: [DomainObject3.vb](./VB/WinSolution.Module/DomainObject3.vb))
+* [DomainObjectBase.cs](./CS/WinSolution.Module/DomainObjectBase.cs) (VB: [DomainObjectBase.vb](./VB/WinSolution.Module/DomainObjectBase.vb))
+* [File.cs](./CS/WinSolution.Module/File.cs) (VB: [File.vb](./VB/WinSolution.Module/File.vb))
+<!-- default file list end -->
 # How to establish association from one class to many classes
 
 
